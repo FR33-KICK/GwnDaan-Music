@@ -76,7 +76,7 @@ Your file should look like this:
 
 ```json
 {
-  "discord_token": "ODE5NjczNjkzODIyMzg2MjA2.YEqCnQ.Z422Ou8XBu8ijNGdAgar0I2JOCU",
+  "discord_token": "",
   "prefix": "+",
   "owner_id": "YOUR USER ID (IF YOU'RE THE OWNER)",
   "presence_type": "PLAYING",
